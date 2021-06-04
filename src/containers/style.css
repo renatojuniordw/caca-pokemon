@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Roboto:wght@100&display=swap');
+
+body {
+    margin: 5%;
+}
+
+.col {
+    margin: 3px;
+}
+
+body {
+    background-color: #363636;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
