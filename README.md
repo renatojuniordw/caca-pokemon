@@ -1,4 +1,5 @@
-# Challenge 
+# Caça Pokémon 
+
 Projeto realiazado para teste prático para os desenvolvedor front-end, interface simples para realizar consulta de Pokemóns, utilizando *ReactJS + Axios + Bootsrtap react e consumindo [pokeapi](https://pokeapi.co/ "API") .*
 
 [Demo](https://challenge.renatobezerra.com.br/ "Demo")
